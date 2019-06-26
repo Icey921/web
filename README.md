@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html lang="en" dir="ltr">
 
@@ -53,7 +53,7 @@
       <td>IOS Development</td>
       <td>⭐️⭐️⭐️⭐️⭐️</td>
     </tr>
-    <tr>
+     <tr>
       <td>Photography</td>
       <td>⭐️⭐️⭐️</td>
       <td>Culinary Arts</td>
