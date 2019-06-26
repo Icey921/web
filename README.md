@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <table cellspacing=20>
+ <table>
     <tr>
       <td><img
           src="profile.jpg"
@@ -46,7 +46,7 @@
   </table>
   <hr>
   <h3>Skills</h3>
-  <table cellspacing=10>
+  <table>
     <tr>
       <td>Web Development</td>
       <td>⭐️⭐️⭐️⭐️⭐️</td>
@@ -59,7 +59,7 @@
       <td>Culinary Arts</td>
       <td>⭐️⭐️⭐️⭐️</td>
     </tr>
-  </table>
+ </table>
 </body>
 <hr>
 <h4><a href="hobbies.html">My Hobbies</a></h4>
