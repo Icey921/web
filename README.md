@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/Icey921/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>Isis's Personal Site</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+  <table cellspacing=20>
+    <tr>
+      <td><img
+          src="profile.jpg"
+          alt="Isis's profile picture"></td>
+      <td>
+        <h1>Isis Aguilar</h1>
+        <p><em>Founder of <strong>Space Chickens Tech.</strong></em></p>
+        <p>I am an IOS and web developer. I'm happily married. I own multiple buinesses. I have an adorable dog.</p>
+      </td>
 
-### Markdown
+  </table>
+  <hr />
+  <h3>Education</h3>
+  <p>
+    <ul>
+      <li>BCMS</li>
+      <li>DBHS</li>
+    </ul>
+  </p>
+  <hr>
+  <h3>Work Experience</h3>
+  <table>
+    <thead>
+      <th>Dates</th>
+      <th>Work</th>
+      <tr>
+        <td>2017-2018</td>
+        <td>Conduent</td>
+      </tr>
+      <tr>
+        <td>2018</td>
+        <td>State Farm</td>
+      </tr>
+    </thead>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing=10>
+    <tr>
+      <td>Web Development</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+      <td>IOS Development</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Photography</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>Culinary Arts</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+    </tr>
+  </table>
+</body>
+<hr>
+<h4><a href="hobbies.html">My Hobbies</a></h4>
+<h4><a href="contact.html">Contact Me</a></h4>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Icey921/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
